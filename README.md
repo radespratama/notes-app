@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/radespratama/openmusic-queue-consumer">
+  <a href="https://github.com/radespratama/notes-app">
     <img src="https://dl.dropbox.com/scl/fi/vjdbnclsk6jyaorg83dns/submission.png?rlkey=313tvfnmb4xqpevr1zw9xp24g&dl=0" alt="banner">
   </a>
 
